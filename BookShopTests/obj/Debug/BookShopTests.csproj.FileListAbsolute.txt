@@ -1,0 +1,2 @@
+C:\Users\cuong\OneDrive\Desktop\BookShopTuto\BookShopTests\obj\Debug\BookShopTests.csproj.AssemblyReference.cache
+C:\Users\cuong\OneDrive\Desktop\BookShopTuto\BookShopTests\obj\Debug\BookShopTests.csproj.CoreCompileInputs.cache

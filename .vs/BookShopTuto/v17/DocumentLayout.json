@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cuong\\OneDrive\\Desktop\\BookShopTuto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8484976C-26D0-4E9A-9689-DFA294AA1B48}|BookShopTuto\\BookShopTuto.csproj|c:\\users\\cuong\\onedrive\\desktop\\bookshoptuto\\bookshoptuto\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8484976C-26D0-4E9A-9689-DFA294AA1B48}|BookShopTuto\\BookShopTuto.csproj|solutionrelative:bookshoptuto\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8484976C-26D0-4E9A-9689-DFA294AA1B48}|BookShopTuto\\BookShopTuto.csproj|c:\\users\\cuong\\onedrive\\desktop\\bookshoptuto\\bookshoptuto\\khohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8484976C-26D0-4E9A-9689-DFA294AA1B48}|BookShopTuto\\BookShopTuto.csproj|solutionrelative:bookshoptuto\\khohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8484976C-26D0-4E9A-9689-DFA294AA1B48}|BookShopTuto\\BookShopTuto.csproj|c:\\users\\cuong\\onedrive\\desktop\\bookshoptuto\\bookshoptuto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8484976C-26D0-4E9A-9689-DFA294AA1B48}|BookShopTuto\\BookShopTuto.csproj|solutionrelative:bookshoptuto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8484976C-26D0-4E9A-9689-DFA294AA1B48}|BookShopTuto\\BookShopTuto.csproj|C:\\Users\\cuong\\OneDrive\\Desktop\\BookShopTuto\\bookshoptuto\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8484976C-26D0-4E9A-9689-DFA294AA1B48}|BookShopTuto\\BookShopTuto.csproj|solutionrelative:bookshoptuto\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8484976C-26D0-4E9A-9689-DFA294AA1B48}|BookShopTuto\\BookShopTuto.csproj|c:\\users\\cuong\\onedrive\\desktop\\bookshoptuto\\bookshoptuto\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8484976C-26D0-4E9A-9689-DFA294AA1B48}|BookShopTuto\\BookShopTuto.csproj|solutionrelative:bookshoptuto\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8484976C-26D0-4E9A-9689-DFA294AA1B48}|BookShopTuto\\BookShopTuto.csproj|c:\\users\\cuong\\onedrive\\desktop\\bookshoptuto\\bookshoptuto\\loaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8484976C-26D0-4E9A-9689-DFA294AA1B48}|BookShopTuto\\BookShopTuto.csproj|solutionrelative:bookshoptuto\\loaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8484976C-26D0-4E9A-9689-DFA294AA1B48}|BookShopTuto\\BookShopTuto.csproj|c:\\users\\cuong\\onedrive\\desktop\\bookshoptuto\\bookshoptuto\\hoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8484976C-26D0-4E9A-9689-DFA294AA1B48}|BookShopTuto\\BookShopTuto.csproj|solutionrelative:bookshoptuto\\hoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\OneDrive\\Desktop\\BookShopTuto\\BookShopTuto\\Program.cs",
+              "RelativeDocumentMoniker": "BookShopTuto\\Program.cs",
+              "ToolTip": "C:\\Users\\cuong\\OneDrive\\Desktop\\BookShopTuto\\BookShopTuto\\Program.cs",
+              "RelativeToolTip": "BookShopTuto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:36:17.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhieuNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cuong\\OneDrive\\Desktop\\BookShopTuto\\BookShopTuto\\PhieuNhap.cs",
+              "RelativeDocumentMoniker": "BookShopTuto\\PhieuNhap.cs",
+              "ToolTip": "C:\\Users\\cuong\\OneDrive\\Desktop\\BookShopTuto\\BookShopTuto\\PhieuNhap.cs [Design]",
+              "RelativeToolTip": "BookShopTuto\\PhieuNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:07:46.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HoaDon.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\OneDrive\\Desktop\\BookShopTuto\\BookShopTuto\\HoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "BookShopTuto\\HoaDon.Designer.cs",
+              "ToolTip": "C:\\Users\\cuong\\OneDrive\\Desktop\\BookShopTuto\\BookShopTuto\\HoaDon.Designer.cs",
+              "RelativeToolTip": "BookShopTuto\\HoaDon.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:21:52.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoaiSach.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\OneDrive\\Desktop\\BookShopTuto\\BookShopTuto\\LoaiSach.cs",
+              "RelativeDocumentMoniker": "BookShopTuto\\LoaiSach.cs",
+              "ToolTip": "C:\\Users\\cuong\\OneDrive\\Desktop\\BookShopTuto\\BookShopTuto\\LoaiSach.cs",
+              "RelativeToolTip": "BookShopTuto\\LoaiSach.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:25:49.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KhoHang.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\OneDrive\\Desktop\\BookShopTuto\\BookShopTuto\\KhoHang.cs",
+              "RelativeDocumentMoniker": "BookShopTuto\\KhoHang.cs",
+              "ToolTip": "C:\\Users\\cuong\\OneDrive\\Desktop\\BookShopTuto\\BookShopTuto\\KhoHang.cs",
+              "RelativeToolTip": "BookShopTuto\\KhoHang.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywCoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:25:27.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\OneDrive\\Desktop\\BookShopTuto\\BookShopTuto\\HoaDon.cs",
+              "RelativeDocumentMoniker": "BookShopTuto\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\cuong\\OneDrive\\Desktop\\BookShopTuto\\BookShopTuto\\HoaDon.cs",
+              "RelativeToolTip": "BookShopTuto\\HoaDon.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:24:18.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\cuong\\OneDrive\\Desktop\\BookShopTuto\\BookShopTuto\\Books.cs",
+              "RelativeDocumentMoniker": "BookShopTuto\\Books.cs",
+              "ToolTip": "C:\\Users\\cuong\\OneDrive\\Desktop\\BookShopTuto\\BookShopTuto\\Books.cs",
+              "RelativeToolTip": "BookShopTuto\\Books.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAIwHkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:24:03.469Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
